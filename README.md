@@ -24,6 +24,12 @@ def hola_mundo():
 
 
 
+## Imágenes
+
+<p align="center">
+<img src="C:\Users\labinf1.pasto\Documents\GitHub\Clase2Progr\Logos" height="100">
+</p>
+
 ## Referencias
 
 [Google](https://www.google.com)
