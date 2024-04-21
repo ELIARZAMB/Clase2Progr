@@ -27,7 +27,7 @@ def hola_mundo():
 ## Imágenes
 
 <p align="center">
-<img src="Clase2Progr\Logos" height="100">
+<img src="Clase2Progr\programacion" height="100">
 </p>
 
 ## Referencias
