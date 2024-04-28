@@ -22,7 +22,11 @@ def hola_mundo():
  
 
 
+## Imágenes
 
+<p align="center">
+<img src=".\Logos/programacion.jpg" height="200">
+</p>
 
 ## Referencias
 
